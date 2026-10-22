@@ -1,0 +1,12 @@
+{
+  "name": "ac2-loja-clientes-pedidos",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
